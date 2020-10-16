@@ -1,3 +1,6 @@
 [submodule "siuVic"]
 	path = siuVic
 	url = https://github.com/vs2961/08_mystring_vs.git
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/work08.git

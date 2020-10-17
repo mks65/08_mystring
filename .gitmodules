@@ -10,3 +10,6 @@
 [submodule "raoIva"]
 	path = raoIva
 	url = https://github.com/irao12/systems_08_mystring.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/08_mystring.git

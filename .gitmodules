@@ -13,3 +13,6 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/08_mystring.git
+[submodule "ahmedTah"]
+	path = ahmedTah
+	url = https://github.com/TahsinAhmed13/08_mystring.git

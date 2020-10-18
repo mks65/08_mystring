@@ -22,3 +22,6 @@
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/-08_mystring_mks.git
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work08_mystring.git

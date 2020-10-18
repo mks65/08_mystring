@@ -16,3 +16,6 @@
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/08_mystring.git
+[submodule "haoGan"]
+	path = haoGan
+	url = https://github.com/haotianGan/08_strings

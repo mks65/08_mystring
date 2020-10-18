@@ -19,3 +19,6 @@
 [submodule "haoGan"]
 	path = haoGan
 	url = https://github.com/haotianGan/08_strings
+[submodule "hernandezCar"]
+	path = hernandezCar
+	url = https://github.com/KarlWithK/-08_mystring_mks.git

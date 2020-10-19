@@ -25,3 +25,6 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work08_mystring.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/08_mystring.git

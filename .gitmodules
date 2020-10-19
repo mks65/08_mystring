@@ -28,3 +28,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/08_mystring.git
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/08_mystring.git

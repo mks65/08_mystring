@@ -34,3 +34,6 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-08_mystring.git
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/08_mystring_vj.git

@@ -31,3 +31,6 @@
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/08_mystring.git
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-08_mystring.git

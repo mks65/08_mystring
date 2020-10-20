@@ -40,3 +40,6 @@
 [submodule "zhangJin"]
 	path = zhangJin
 	url = https://github.com/Jinzxc/08_mystring_J.git
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/08_mystring

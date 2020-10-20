@@ -61,3 +61,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/08_Mystring.git
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/08_mystring.git

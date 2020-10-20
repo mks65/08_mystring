@@ -67,3 +67,6 @@
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/08_mystring_zhangAle
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_08_mystring.git

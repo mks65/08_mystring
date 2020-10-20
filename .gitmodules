@@ -64,3 +64,6 @@
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/08_mystring.git
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/08_mystring_zhangAle

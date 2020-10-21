@@ -76,3 +76,6 @@
 [submodule "liSun"]
 	path = liSun
 	url = https://github.com/sunnyli13/Work08.git
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/08_mystring_kevidgel

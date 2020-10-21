@@ -79,3 +79,6 @@
 [submodule "leeSte"]
 	path = leeSte
 	url = https://github.com/kevidgel/08_mystring_kevidgel
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/08_mystring

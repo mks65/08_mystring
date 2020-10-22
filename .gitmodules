@@ -97,3 +97,6 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/08_work.git
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_08.git

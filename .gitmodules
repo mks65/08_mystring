@@ -58,9 +58,6 @@
 [submodule "huMic"]
 	path = huMic
 	url = https://github.com/GuessHuIAm/homework8
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/08_Mystring.git
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/08_mystring.git
@@ -94,3 +91,6 @@
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/Work08
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/08_Mystring.git

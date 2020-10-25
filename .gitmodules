@@ -91,9 +91,6 @@
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/Work08
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/08_Mystring.git
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/08_work.git
@@ -106,3 +103,6 @@
 [submodule "liuAli"]
 	path = liuAli
 	url = https://github.com/aliu889/08_work_.git
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/08_Mystring.git

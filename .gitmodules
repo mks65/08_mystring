@@ -7,9 +7,6 @@
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/08_mystring_systems.git
-[submodule "raoIva"]
-	path = raoIva
-	url = https://github.com/irao12/systems_08_mystring.git
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/08_mystring.git
@@ -106,3 +103,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/08_Mystring.git
+[submodule "raoIva"]
+	path = raoIva
+	url = https://github.com/irao12/systems_08_mystring
